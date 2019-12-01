@@ -1,0 +1,85 @@
+body {
+  width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	font-size: 62.5%;
+  background-color:white;
+}
+
+header,
+main,
+footer {
+	font-size: 1.6em;
+}
+
+header {
+	padding: 1.875em 0;
+  font-size: 200%;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	margin: 0;
+
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+section:first-child {
+	margin-top: 0;
+}
+
+section:last-child {
+	margin-bottom: 0;
+}
+p {
+	padding: 1.25em;
+}
+
+figure {
+	margin: 500;
+	padding: 500;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+img {
+  length:100%;
+	width: 80%;
+	max-width: 100%;
+}
+
+	body {
+		font-size: 50%;
+	}
+
+  .intro {
+  	min-width: 470px;
+  	width: 100%;
+    color: #555753;
+  }
